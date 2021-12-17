@@ -7,3 +7,5 @@ Useful packages:
 
 Commands:
 - `go test` to run _test files
+
+Test 1: `hello.go` - a function that returns a greeting based on certain parameters
