@@ -11,5 +11,7 @@ Commands:
 - `go test -bench=.` run benchmark tests in _test files
 
 Test 1: `basics/hello.go` - a function that returns a greeting
+
 Test 2: `integers/adder.go` - a function that adds two numbers together
+
 Test 3: `for/iteration.go` - a function that repeats a string 
