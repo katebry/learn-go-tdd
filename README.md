@@ -18,3 +18,7 @@ Test 2: `integers/adder.go` - a function that adds two numbers together
 Test 3: `for/iteration.go` - a function that repeats a string 
 
 Test 4: `arrays/sum.go` - a function that adds the values of an array
+
+Further Reading:
+
+- [slices](https://go.dev/blog/slices-intro)
