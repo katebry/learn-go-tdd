@@ -24,3 +24,5 @@ Test 5: `structs/shapes.go` - a function that calculates the perimeter of a rect
 Further Reading:
 
 - [slices](https://go.dev/blog/slices-intro)
+
+- [table driven tests](https://github.com/golang/go/wiki/TableDrivenTests)
