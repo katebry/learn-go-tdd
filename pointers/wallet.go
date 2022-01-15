@@ -27,6 +27,7 @@ func (w *Wallet) Withdraw(amount Bitcoin) error {
 	}
 
 	w.balance -= amount
+	// When a function returns a pointer to something, you need to make sure you check if it's nil or you might raise a runtime exception
 	return nil
 }
 
