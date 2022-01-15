@@ -21,6 +21,8 @@ Test 4: `arrays/sum.go` - a function that adds the values of an array
 
 Test 5: `structs/shapes.go` - a function that calculates the perimeter of a rectangle
 
+Test 6: `pointers/wallet.go` - a function that allows us to deposit money into a wallet
+
 Further Reading:
 
 - [slices](https://go.dev/blog/slices-intro)
