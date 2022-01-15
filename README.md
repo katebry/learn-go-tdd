@@ -26,3 +26,5 @@ Further Reading:
 - [slices](https://go.dev/blog/slices-intro)
 
 - [table driven tests](https://github.com/golang/go/wiki/TableDrivenTests)
+
+- [parametric polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism)
