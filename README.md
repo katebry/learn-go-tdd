@@ -4,6 +4,7 @@ Repo created whilst following [Learn Go With Tests](https://quii.gitbook.io/lear
 
 Useful packages:
 - [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) 
+- [errcheck](https://pkg.go.dev/github.com/kisielk/errcheck/internal/errcheck)
 
 Commands:
 - `go test` to run _test files
