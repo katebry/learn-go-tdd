@@ -30,3 +30,5 @@ Further Reading:
 - [table driven tests](https://github.com/golang/go/wiki/TableDrivenTests)
 
 - [parametric polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism)
+
+- [pointers](https://gobyexample.com/pointers)
