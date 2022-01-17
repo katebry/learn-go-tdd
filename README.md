@@ -24,7 +24,7 @@ Test 5: `structs/shapes.go` - a function that calculates the perimeter of shapes
 
 Test 6: `pointers/wallet.go` - a function that allows us to deposit money into a wallet
 
-Test 7: `maps/dictionary.go` - a function that returns the definition when a word is searched for
+Test 7: `maps/dictionary.go` - a function that returns a definition when a word is searched for
 
 Further Reading:
 
