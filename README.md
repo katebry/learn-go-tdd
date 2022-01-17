@@ -37,3 +37,5 @@ Further Reading:
 - [pointers](https://gobyexample.com/pointers)
 
 - [comparable types](https://go.dev/ref/spec#Comparison_operators)
+
+- [constant errors](https://dave.cheney.net/2016/04/07/constant-errors)
