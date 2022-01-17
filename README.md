@@ -35,3 +35,5 @@ Further Reading:
 - [parametric polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism)
 
 - [pointers](https://gobyexample.com/pointers)
+
+- [comparable types](https://go.dev/ref/spec#Comparison_operators)
