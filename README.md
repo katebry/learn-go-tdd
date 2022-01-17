@@ -24,6 +24,8 @@ Test 5: `structs/shapes.go` - a function that calculates the perimeter of a rect
 
 Test 6: `pointers/wallet.go` - a function that allows us to deposit money into a wallet
 
+Test 7: `maps/dictionary.go` - a function that returns the definition when a word is searched for
+
 Further Reading:
 
 - [slices](https://go.dev/blog/slices-intro)
