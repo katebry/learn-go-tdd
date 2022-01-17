@@ -20,7 +20,7 @@ Test 3: `for/iteration.go` - a function that repeats a string
 
 Test 4: `arrays/sum.go` - a function that adds the values of an array
 
-Test 5: `structs/shapes.go` - a function that calculates the perimeter of a rectangle
+Test 5: `structs/shapes.go` - a function that calculates the perimeter of shapes
 
 Test 6: `pointers/wallet.go` - a function that allows us to deposit money into a wallet
 
