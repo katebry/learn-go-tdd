@@ -26,6 +26,8 @@ Test 6: `pointers/wallet.go` - a function that allows us to deposit money into a
 
 Test 7: `maps/dictionary.go` - a function that returns a definition when a word is searched for
 
+Test 8: `di/di.go` - a function that tests the printing of a Greeter function 
+
 Further Reading:
 
 - [slices](https://go.dev/blog/slices-intro)
