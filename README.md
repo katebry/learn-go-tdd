@@ -11,6 +11,7 @@ Commands:
 - `go test -v` runs _test files and gives you a breakdown of each test run
 - `go test -bench=.` run benchmark tests in _test files
 - `go test -cover` shows your test coverage
+- `go run <file>.go` runs your go program
 
 Test 1: `basics/hello.go` - a function that returns a greeting
 
